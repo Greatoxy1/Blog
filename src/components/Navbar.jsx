@@ -33,7 +33,7 @@ export default function Navbar() {
         onClick={() => setDarkMode(!darkMode)}
         className="ml-4 border rounded-lg px-3 py-1 text-sm hover:bg-gray-700"
       >
-        {darkMode ? "í¼ž Light" : "í¼™ Dark"}
+        {darkMode ? "ðŸŒž Light" : "ðŸŒ™ Dark"}
       </button>
     </nav>
   );

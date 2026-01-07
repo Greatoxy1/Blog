@@ -3,15 +3,18 @@ import Subscription from "../components/Subscription";
 
 
 export function Sports() {
+
   const items = [
-    { title: "Champions League Final 2025", desc: "A legendary showdown in Madrid." },
-    { title: "Top 5 Rising Athletes", desc: "Who’s breaking records this year?" },
-    { title: "Fitness Tech Trends", desc: "Smart wearables revolutionizing training." },
+
+    { title: "Champions League Final 2025", desc: "A legendary showdown in Madrid. In 2025-26 season Real Madrid and Bayern Munich are favorite to lift the champions league title, both teams which will make it up to final will lift the cup. compare to previours seasons both Real Madrid and Bayern Munich form has increased and they can make some impacts in the champions league.  The stage is almost set for the 2026 World Cup, which begins June 11 and concludes with the final July 19.  The draw ceremony will be held at noon ET (5 p.m. GMT) at the Kennedy Center in Washington, D.C., on Dec. 5.  The 48 teams or placeholders will be divided into four pots of 12 teams, using the FIFA World Rankings list published Nov. 19. Each World Cup group will consist of one team from each pot.Football remains the most popular sport worldwide, and every year, new prodigies emerge, ready to take the game to the next level. In 2025, a select few young players are standing out with their remarkable performances, technical prowess, and goal-scoring abilities. These athletes are already being scouted by top clubs and have the potential to become household names in the sport.Among them is Alejandro Martín, a 19-year-old Spanish striker whose goal-scoring instincts have turned him into one of La Liga’s most feared attackers. His ability to find space, combined with his lethal finishing, has drawn comparisons to some of the greatest strikers of the past. With European giants keen on signing him, his future in football looks incredibly bright.Another name making waves is Isla Thompson, an 18-year-old English midfielder who has become a key player for her national team. Her vision, passing ability, and composure under pressure set her apart from her peers. Experts believe that she will soon be one of the leading figures in women’s football.  " },
+    { title: "Top 5 Rising Athletes", desc: "Who’s breaking records this year?  .The top five finishers at Platinum Label marathons and winners of individual events at area championships (except for the marathon), regardless of marks, were considered as having achieved the entry standard.The second day of the 2025 Track And Field World Championships is here live from Tokyo. Every year, the sports world witnesses the emergence of young talents who redefine their disciplines. These athletes, through sheer determination and skill, rise to prominence, challenging the established stars. As we enter 2025, several young athletes are making waves, showing exceptional promise in football, tennis, and athletics. Their performances indicate that they are not just future stars—they are already shaping the present. Let’s take a look at the most exciting young athletes who are set to dominate global sports. Follow along for live updates, breaking news and more. " },
+    { title: "Fitness Tech Trends", desc: "Smart wearables revolutionizing training. Anthony Joshua is a British professional boxer with a net worth of $150 million. Anthony Joshua is one of the most recognizable figures in modern boxing, known for his knockout power, athletic physique, and global box office appeal. At FitnessTechTrends, we’re passionate about providing you with the latest and most accurate information on the rapidly evolving world of fitness technology. Whether you’re looking for comprehensive product reviews, insightful comparisons, or guides on wearable tech, smart home gym equipment, fitness apps, and more, you’ve come to the right place. As fitness enthusiasts and tech geeks, we combine our passions to bring you the most relevant trends, tips, and tricks in the fitness tech industry. We strive to help our readers make informed decisions based on their fitness goals, needs, and budget. We believe that the right tech can elevate your workouts, enhance your progress tracking, and contribute to a healthier lifestyle. Don’t miss out on any fitness tech trends. Stay updated by subscribing to our newsletter (functionality coming soon), and follow us on social media for regular updates on the latest gear, gadgets, and applications. Join the FitnessTechTrends community today!" },
   ];
-  return(
-  <>
-    <SectionPage title="Sports" items={items} iframeSrc="https://sports.globbalnews.com" />
-    <Subscription />
+  return (
+    <>
+
+      <SectionPage title="Sports" items={items} iframeSrc="https://sports.globbalnews.com" />
+      <Subscription />
     </>
-    );
+  );
 }

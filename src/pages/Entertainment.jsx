@@ -4,19 +4,19 @@ import Subscription from "../components/Subscription";
 
 export function Entertainment() {
   const items = [
-    { title: "Top 10 Movies of 2025", desc: "Blockbusters that defined the year." },
-    { title: "Music Festivals to Watch", desc: "Global lineup of summer festivals." },
-    { title: "Streaming Show Spotlight", desc: "New releases taking over binge-watch lists." },
+    { title: "Top 10 Movies of 2025", desc: "Blockbusters that defined the year.  The American Film Institute has revealed its picks for the best 10 films and TV shows of 2025. Its top films are, in alphabetical order: Avatar: Fire and Ash, Bugonia, Frankenstein, Hamnet, Jay Kelly, Marty Supreme, One Battle After Another, Sinners, Train Dreams and Wicked: For Good. AFI’s honorees, which will be celebrated at a Jan. 9 luncheon in Los Angeles, recognize movies and TV shows deemed culturally and artistically representative of this year’s most significant achievements in the art of the moving image.For more than a quarter of a century, AFI Awards has held the flag high for community without competition," },
+    { title: "Music Festivals to Watch", desc: "Global lineup of summer festivals. Festivals are the beating heart of the music industry. They’re top of the travel bucket list for any music enthusiast. The most popular festivals in the world are multi-day events, usually incorporating camping and giving you the opportunity to see some of the biggest names in the industry.Festivals like Coachella and Glastonbury have become pop culture icons, offering an immersive experience, with fans battling every year for the best tickets. You’ll find festivals in almost every country, with over 32 million people attending U.S festivals annually and the UK hosting more than 1,000 music festivals every year. Festivals in Ghana are celebrated for many reasons pertaining to a particular tribe or culture, usually having backgrounds relating to an occurrence in the history of that culture. Examples of such occurrences have been hunger, migration, purification of either gods or stools, etc.    " },
+    { title: "Streaming Show Spotlight", desc: "New releases taking over binge-watch lists. Nigeria is home to a rich tapestry of festivals that celebrate its diverse cultures. Nigeria is a multicultural society, although it is dominated by two of the world’s major religions. About half of the population is Muslim, with about 40 percent of Nigerians following Christianity. Followers of the religions live side by side in Nigeria, and traditional Islamic and Christian festivals are celebrated throughout the country, although it is at these times where you will observe the division more. Christmas and Easter festivals are celebrated widely, with a distinct West African flavor, and most of the Christians live in the south. The main Muslim festivals are Eid al Fitri, Eid al Maulud and Eid al Kabir, which are recognized as national Nigerian holidays. The remaining 10 percent of the population have traditional indigenous beliefs, and festivals which convey the unique Nigerian traditional way of life are celebrated, such as the Osun festival, an important event for the Yoruba tribe. Eid al Maulud: Held in February, this is the first major Muslim festival celebrated of the year in Nigeria. It is known as ‘Mawlid’ in other Islamic holidays, and means ‘birth of the Prophet’, celebrating the birth of Mohammed in 570 AD. This day is honored with a national public holiday; you will see it observed slightly differently depending on which region of the country you are in. Easter:Easter is one of two most important festivals for Christians around the world. In Nigeria it is commemorated with an official public holiday. Good Friday is a more somber day, where many people will go to pay their respects at a local church. Easter Sunday is an upbeat event, since it celebrates the resurrection of Jesus, and people take to the streets wearing traditional colorful costumes, dancing to the pulsating beat of African drums. Eid al Fitri: Occurring in August or September, according to the Islamic calendar for the year, the festival of Eid al Fitri is celebrated on the last day of Ramadan, the end of a month-long period of daylight fasting for Muslims. You may hear it being called ‘Small Saleh’ in Nigeria, and on this day Muslims head home to feast with their families, breaking the fast. This is followed by a two-day national public holiday. Calabar Carnival:This is a fairly new addition to the annual festival calendar of Nigeria, since it first commenced in 2006, although is held annually and is dubbed “Nigeria’s largest street party.” It is a month-long carnival from December 1 to 31 every year, and has a program of events including dancing, music, and other cultural events; something different every day. " },
   ];
 
   return (
     <>
-    <SectionPage
-      title="Entertainment"
-      items={items}
-      iframeSrc="https://entertainment.globbalnews.com"
-    />
+      <SectionPage
+        title="Entertainment"
+        items={items}
+        iframeSrc="https://entertainment.globbalnews.com"
+      />
       <Subscription />
-      </>
+    </>
   );
 }

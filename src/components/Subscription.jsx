@@ -28,6 +28,8 @@ export default function Subscription() {
       {!submitted ? (
         <>
           <h2 className="text-2xl font-bold mb-3">Subscribe to Globbal News</h2>
+          <a href="https://globbalnews.com " more />
+
           <p className="text-gray-400 mb-6">Get the latest headlines, stories, and updates — straight to your inbox.</p>
 
           <form
@@ -61,6 +63,8 @@ export default function Subscription() {
           </h3>
           <p className="text-gray-400">
             Thank you for joining the Globbal News community.
+            <a href="https://globbalnews.com " more />
+
           </p>
         </motion.div>
       )}

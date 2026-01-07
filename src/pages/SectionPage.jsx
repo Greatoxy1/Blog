@@ -48,6 +48,8 @@ export default function SectionPage({ title, items, iframeSrc }) {
           </p>
         )}
       </div>
+      <a href="https://globbalnews.com " more />
+
 
       <IframePage src={iframeSrc} title={title} />
     </motion.div>

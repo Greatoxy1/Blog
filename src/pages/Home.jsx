@@ -10,7 +10,14 @@ export function Home() {
       exit={{ opacity: 0, y: -20 }}
       transition={{ duration: 0.5 }}
     >
-      <h1 className="text-4xl font-bold mb-4">Welcome to Globbal News ���</h1>
+      <h1 className="text-4xl font-bold mb-4">Breaking News ���
+
+      <a href="https://sports.globbalnews.com">
+        <img src="semenyo3.jpg" alt="image" width="600"/><br></br>
+        Antoine Semenyo score his firt goal and Assist for Man City
+        10-1 against Exeter City.
+      </a>
+      </h1>
       <p className="text-gray-600 dark:text-gray-300 max-w-xl mx-auto">
         Globbalnews.com is one of the most trending website currently,
         we provide both foreign and local news.
@@ -21,6 +28,22 @@ export function Home() {
         Our team have well train experience business guy's who can assist you for your business to grow, and if you are now willing to start something new
         they are ready to start with you.
       </p>
+      <h1>
+        Can Antoine Semenyo make history at man city?.
+      </h1>
+      <p>
+        The january transfer window was the most competitive season for 
+        Ghanaian international Antoine Semenyo, as many of the top teams 
+        were expected to have a signature of the star boy.
+        As a young player ,his dream was to play under Pep Guardiola so it became 
+        advantage for Manchester City to gain his signature.
+        On the 10-01-2026, Antoine Semenyo made his first debut where he got a 
+        fantastic goal and assist ,at the same time having man of the match 
+        with a victory of 10-1 against Exeter City.
+        AS the young star dream comes true , we whish him good luck and expecting more from him. 
+        </p>
+             <img src="semenyo4.jpg" alt="image" width="600"/>
+       
       <h2>
         <a href="https://blog.globbalnews.com">Top UI trends that can change the world</a>
       </h2>
@@ -151,7 +174,7 @@ export function Home() {
       <h1>
         How Lionel Messi's performance in inter miami will contribute records in his career.
       </h1>
-      <p1>
+      <p>
         Copa América 2024
 
         At the end of the world championship he announced that he wanted to continue playing for Argentina National team.
@@ -164,7 +187,7 @@ export function Home() {
         [266] In addition, with 36 total goals scored in World Cup qualifying, he is the all-time CONMEBOL top scorer and third overall.
         On 28 March 2023, he scored a hat-trick in the 7–0 friendly win against Curaçao, which allowed him to reach 102 goals scored for the national team; at the same time he became the third footballer to score 100 goals with his nation after Cristiano Ronaldo and Ali Daei.
         [258][259] On 15 June 2023, in a 2–0 friendly win against Australia, he scored after 79 seconds of play, scoring the fastest goal of his career.
-      </p1>
+      </p>
       <h2>
         <a href="https://news.globbalnews.com">Trending of global economic and climate changes for 2026/27  </a>
       </h2>
@@ -173,7 +196,7 @@ export function Home() {
         How Erling Haaland Braut performance increase season by season.
       </h1>
 
-      <p1>
+      <p>
         Since 2022-23 season he joined Manchester City, his contribution to the team is extraordinary.
         He began the 2023-2024 season by scoring a brace on the first day of the Premier League won 3-0 against newly promoted Burnley.
         [91] On 16 August 2023, he won his fourth trophy with Manchester City, the UEFA Super Cup, thanks to the success obtained against Sevilla (1-1, 5-4 pens).
@@ -183,7 +206,7 @@ export function Home() {
         [95] On the same evening, he was awarded the Gerd Müller Trophy, awarded to Europe's top goalscorer. [96] The following 25 November he set the record for the fewest games served (48) to score 50 goals in the English league,
         surpassing Andy Cole's record (65). [97] He then suffered an injury to his right foot,
         which kept him away from the field of play for two months, precluding him from participating in the Club World Cup, which Manchester City still won.
-      </p1>
+      </p>
       <p>
         <img src="haland1.jpg" alt="image" width="600" />
       </p>
@@ -310,11 +333,11 @@ export function Home() {
 
         On February 9, 2022, Entertainment Weekly ceased print publication and moved to digital-only.[12] The final print issue was that of April 2022.[13] In May 2022, executive editor Patrick Gomez stepped into the editor-in-chief/general manager role.
       </p>
-      
+
       <h1>
         <a href="https://shop.globbalnews.come"> Follow For more informations </a>
       </h1>
-
+    
     </motion.div>
   );
 }

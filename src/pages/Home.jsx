@@ -31,6 +31,14 @@ export function Home() {
       <h1>
         Can Antoine Semenyo make history at man city?.
       </h1>
+       <p>
+          Antoine Semenyo is making progress after moving to Man City 
+          as he score 2 goals in 2 matches with 1 assist. 
+          Antoine semenyo current performance is realy out of hand 
+          thos season as he is proving himself that Manchester City is 
+          his dream team.
+          Thanks to the great team work.
+        </p>
       <p>
         The january transfer window was the most competitive season for 
         Ghanaian international Antoine Semenyo, as many of the top teams 
@@ -89,6 +97,15 @@ export function Home() {
       <h1>
         <a href="https://sports.globbalnews.com">2026 most valuable players</a>
       </h1>
+      <h1>Why Christiano Ronaldo is not happy after Real Madrid sacked Xavi Alonso.</h1>
+      <p>
+        Xabi Alonso was dismissed as Real Madrid head coach shortly after a Spanish Super Cup final loss to Barcelona and internal tensions within the squad.
+        Coverage and reactions have largely focused on Alonso’s own comments, media analysis, and reactions from some players.
+        Alonso himself issued a farewell statement saying he left with “respect, gratitude and pride” after his tenure did not go as planned.
+        Xabi Alonso released his own public farewell message, saying that his time at Real Madrid “hasn’t turned out the way we hoped”, and that coaching the club has been “an honor and responsibility.” He thanked the club, players, and fans.
+        reactions from various figures, but no reputable news outlet has published a direct statement from Ronaldo on this matter yet.
+        Ronaldo’s silence speack a lot as his formal team mate has been sacked.
+      </p>
       <h2>Why 2026 transfer windows has become complecated for C.Ronaldo.</h2>
       <p>
         Cristiano Ronaldo is the first men’s soccer player to record 900 career goals.

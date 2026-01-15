@@ -11,7 +11,7 @@ export function Shop() {
   ];
   return (
     <>
-      <SectionPage title="Shop" items={items} iframeSrc="https://shop.globbalnews.com" />       
+    <SectionPage title="Shop" items={items} iframeSrc="https://shop.globbalnews.com" />     
 
       <Subscription />
     </>

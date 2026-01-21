@@ -12,11 +12,11 @@ export function Home() {
     >
       <h1 className="text-4xl font-bold mb-4">Breaking News ���
 
-      <a href="https://sports.globbalnews.com">
-        <img src="semenyo3.jpg" alt="image" width="600"/><br></br>
-        Antoine Semenyo score his firt goal and Assist for Man City
-        10-1 against Exeter City.
-      </a>
+        <a href="https://sports.globbalnews.com">
+          <img src="semenyo3.jpg" alt="image" width="600" /><br></br>
+          Antoine Semenyo score his firt goal and Assist for Man City
+          10-1 against Exeter City.
+        </a>
       </h1>
       <p className="text-gray-600 dark:text-gray-300 max-w-xl mx-auto">
         Globbalnews.com is one of the most trending website currently,
@@ -31,27 +31,27 @@ export function Home() {
       <h1>
         Can Antoine Semenyo make history at man city?.
       </h1>
-       <p>
-          Antoine Semenyo is making progress after moving to Man City 
-          as he score 2 goals in 2 matches with 1 assist. 
-          Antoine semenyo current performance is realy out of hand 
-          thos season as he is proving himself that Manchester City is 
-          his dream team.
-          Thanks to the great team work.
-        </p>
       <p>
-        The january transfer window was the most competitive season for 
-        Ghanaian international Antoine Semenyo, as many of the top teams 
+        Antoine Semenyo is making progress after moving to Man City
+        as he score 2 goals in 2 matches with 1 assist.
+        Antoine semenyo current performance is realy out of hand
+        thos season as he is proving himself that Manchester City is
+        his dream team.
+        Thanks to the great team work.
+      </p>
+      <p>
+        The january transfer window was the most competitive season for
+        Ghanaian international Antoine Semenyo, as many of the top teams
         were expected to have a signature of the star boy.
-        As a young player ,his dream was to play under Pep Guardiola so it became 
+        As a young player ,his dream was to play under Pep Guardiola so it became
         advantage for Manchester City to gain his signature.
-        On the 10-01-2026, Antoine Semenyo made his first debut where he got a 
-        fantastic goal and assist ,at the same time having man of the match 
+        On the 10-01-2026, Antoine Semenyo made his first debut where he got a
+        fantastic goal and assist ,at the same time having man of the match
         with a victory of 10-1 against Exeter City.
-        AS the young star dream comes true , we whish him good luck and expecting more from him. 
-        </p>
-             <img src="semenyo4.jpg" alt="image" width="600"/>
-       
+        AS the young star dream comes true , we whish him good luck and expecting more from him.
+      </p>
+      <img src="semenyo4.jpg" alt="image" width="600" />
+
       <h2>
         <a href="https://blog.globbalnews.com">Top UI trends that can change the world</a>
       </h2>
@@ -224,6 +224,26 @@ export function Home() {
         surpassing Andy Cole's record (65). [97] He then suffered an injury to his right foot,
         which kept him away from the field of play for two months, precluding him from participating in the Club World Cup, which Manchester City still won.
       </p>
+      <div>
+        <h1>
+          <a href="https://sports.globbalnews.com">Bad day for Manchester City</a>
+        </h1>
+        <p>
+          Manchester City is having low performance in the 2025/26 season , they have
+          make many new signing to improve the teams performance but it looks like
+          they are stil on the desert.
+          Since the brougt the Ghana internatinal Antoine Semenyo, the team got some
+          comfidence and they won some matches in which Semenyo made a contribution of
+          goals and assist for the club.
+          On the 20th of january Manchester City lost 3-1 against FK Bodo Glimt in the champions league
+          round 7.
+          The team was having poor performance on the pitch but Antoine Semenyo was out
+          of the squard.
+          We are waiting to see how semenyo will continue to help the to get into it
+          standard form.
+        </p>
+
+      </div>
       <p>
         <img src="haland1.jpg" alt="image" width="600" />
       </p>
@@ -306,7 +326,20 @@ export function Home() {
         beating his former Monaco teammates in the final (3-0). [51] He also ended the season by winning the French championship and the French Cup,
         totaling 21 goals in 44 appearances.
       </a>
-
+      <div>
+        <a href="https://sports.globbalnews.com">HOW REAL MADRID IS IMPROVING AFTER THEY SACKED XAVI ALONSO</a>
+      </div>
+      <p>
+        In the begining of 2026 Xavi Alonso and Real Madrid experienced though time in their history,
+        On 11th of january Barcelona defeated Real Madrid 3-2 to win the super cup in spain that brougt
+        a lot of pains to the Madrid funs and stuff ,after the match less than 24 hours xavi Alonso was
+        dismissed as a head coach.
+        Alvaro Arbeloa use it as an opportunity to lead the club as a coach,
+        Alvaro Arbeloa lost his first match in copa delrey last 16 against second division team ALbacete 3-2,
+        The coach is trying to maintain his position in the club so he got his first win in laliga 2-0 against levente,
+        and made a history of 6-1 against Monaco in champions league,
+        although the club is stil looking for xavis replacement and the performance of Albeloa will determing if he can take over or not.
+      </p>
       <div>
         <img src="mbape2.jpg" alt="image" width="600" />
       </div>
@@ -354,7 +387,7 @@ export function Home() {
       <h1>
         <a href="https://shop.globbalnews.come"> Follow For more informations </a>
       </h1>
-    
+
     </motion.div>
   );
 }

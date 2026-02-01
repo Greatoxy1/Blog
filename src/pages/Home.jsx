@@ -9,7 +9,19 @@ export function Home() {
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -20 }}
       transition={{ duration: 0.5 }}
-    >
+    ><h1>
+      The most difficult season for Manchester City
+    </h1>
+    <p>
+      2025/26 premier league season has become a though season for Manchester City 
+      On 17th january 2026 they got decisive defeat against Manchester United 2-0,
+      that has given Manchester United more hope and advantage getting closer to the title 
+      because they have already defeated leading champions Arsenal 3-2 ,and at the same time 
+      getting another victory 3-2 against Fulham, which has put them on the 4th position of premier league table.
+      Manchester City is stil maintaining the 2nd position after having 2-2 draw against Tottenham Hotspur.
+      Arsenal is stil leading with 6 points ahead of Manchester City.
+      All eye's on them if they can make wonders to lift the cup this season.
+    </p>
       <h1 className="text-4xl font-bold mb-4">Breaking News ���
 
         <a href="https://sports.globbalnews.com">

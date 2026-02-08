@@ -9,7 +9,23 @@ export function Home() {
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -20 }}
       transition={{ duration: 0.5 }}
-    ><h1>
+    >
+      <h1>
+        Super win for Manchester City against Arsenal
+      </h1>
+      <p>
+        Manchester City’s 2–1 win vs Liverpool is very lucky win because of unexpected last minute goals on 8th feb 2026.
+        Liverpool took the lead through a stunning free-kick from Dominik Szoboszlai in the 74th minute, catching City off-guard defensively.
+        City responded late: Bernardo Silva drew them level with a well-timed finish late in the second half, showing City’s resilience.
+        Erling Haaland won it with a stoppage-time penalty after Matheus Nunes was fouled — Haaland calmly converted to complete the comeback.
+        City’s refusal to sit back — Even after conceding, Pep Guardiola’s side kept pressing and created good chances.
+         Their persistence paid off with the late equaliser and penalty.
+         Liverpool’s set-piece threat — Szoboszlai’s free kick was a reminder that dead balls remain a vulnerability for City.
+         Defensive frailties late on — Giving up the late goal highlights why City still have work to do if they want to sustain a title challenge.
+         This match was defined by late drama and dramatic swings — a tale of a stunning free-kick, a resilient comeback, controversial VAR moments, and a title-race pulse-raiser. 
+         Manchester City’s stoppage-time victory not only gave them three vital points but also highlighted their resilience in key moments, while Liverpool’s loss marked another late stumble in a season of mixed form.
+      </p>
+      <h1>
       The most difficult season for Manchester City
     </h1>
     <p>

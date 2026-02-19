@@ -9,7 +9,28 @@ export function Home() {
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -20 }}
       transition={{ duration: 0.5 }}
-    >
+    > <h1>
+      Sports apdate
+    </h1>
+    <a href="https://business.globbalnews.com">Join our business group chanels for business informations</a>
+    <h1>
+      How Alvaro Arbeloa is making improvement after xavi Alonso exit
+    </h1>
+    <p>
+      Álvaro Arbeloa's current performance as manager of Real Madrid (as of mid-February 2026),
+      Recent Results & Form - After replacing Xabi Alonso in January 2026, 
+      Arbeloa has overseen a notable upturn in results — Real Madrid recently went on a winning run in La Liga and Europe,
+      including a 1–0 away win over Benfica in the Champions League first-leg playoff.  - Under his leadership,
+       Real have scored in every match across all competitions, a streak not seen since 2009–10 under Manuel
+       Pellegrini : The team is also enjoying momentum domestically, with strong performances like a big victory over Real Sociedad. 📊
+        Tactical & Team Notes - Arbeloa emphasizes solid, disciplined play, especially in defense and organization, something he highlighted after the Benfica win. 
+         He's been maneuvering his squad through injuries and big personalities, and has given more first-team opportunities to academy players than his predecessor.
+         While his teams have improved offensively and in results, consistency and tactical identity are still developing, with some critics questioning balance and long-term plans,
+          📉 Challenges & Criticism - His tenure started with a shock Copa del Rey exit and an early European setback before the resurgence.
+          Some pundits and fans express internal dissatisfaction or doubt about his decisions or style, though this remains more opinion-based than reflected in match outcomes. 
+          🧠 Overall Take Arbeloa's performance so far is mixed but trending positive:✔ Strong recent winning run and improved attacking consistency. ✔ Record streak of scoring and notable European result (Benfica win). 
+           Tactical cohesion and long-term readiness for big competitions still under scrutiny. 
+    </p>
       <h1>
         Super win for Manchester City against Arsenal
       </h1>

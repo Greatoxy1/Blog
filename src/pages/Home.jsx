@@ -9,64 +9,77 @@ export function Home() {
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -20 }}
       transition={{ duration: 0.5 }}
-    > <h1>
-      Sports apdate
-    </h1>
-    <a href="https://business.globbalnews.com">Join our business group chanels for business informations</a>
-    <h1>
-      How Alvaro Arbeloa is making improvement after xavi Alonso exit
-    </h1>
-    <p>
-      Álvaro Arbeloa's current performance as manager of Real Madrid (as of mid-February 2026),
-      Recent Results & Form - After replacing Xabi Alonso in January 2026, 
-      Arbeloa has overseen a notable upturn in results — Real Madrid recently went on a winning run in La Liga and Europe,
-      including a 1–0 away win over Benfica in the Champions League first-leg playoff.  - Under his leadership,
-       Real have scored in every match across all competitions, a streak not seen since 2009–10 under Manuel
-       Pellegrini : The team is also enjoying momentum domestically, with strong performances like a big victory over Real Sociedad. 📊
-        Tactical & Team Notes - Arbeloa emphasizes solid, disciplined play, especially in defense and organization, something he highlighted after the Benfica win. 
-         He's been maneuvering his squad through injuries and big personalities, and has given more first-team opportunities to academy players than his predecessor.
-         While his teams have improved offensively and in results, consistency and tactical identity are still developing, with some critics questioning balance and long-term plans,
-          📉 Challenges & Criticism - His tenure started with a shock Copa del Rey exit and an early European setback before the resurgence.
-          Some pundits and fans express internal dissatisfaction or doubt about his decisions or style, though this remains more opinion-based than reflected in match outcomes. 
-          🧠 Overall Take Arbeloa's performance so far is mixed but trending positive:✔ Strong recent winning run and improved attacking consistency. ✔ Record streak of scoring and notable European result (Benfica win). 
-           Tactical cohesion and long-term readiness for big competitions still under scrutiny. 
-    </p>
-      <h1>
+    > <h2>
+        Sports apdate
+      </h2>
+      <h2>⚽ UEFA Champions League</h2>
+      <p>
+        Real Madrid qualified for the Champions League round of 16, advancing past Benfica with a 3–1 aggregate score.
+        Across the group stage, Madrid had a mixed record — some convincing wins alongside disappointing defeats (e.g., a loss to Manchester City).
+        Champions League stats show a decent but imperfect group stage performance with more goals scored than conceded.
+      </p>
+      <h2>
+        🏟️ Tactical and Managerial Context
+      </h2>
+      <p>
+        Xabi Alonso took charge for the 2025–26 season and initially led a strong run of form, including numerous home wins in La Liga and a positive start in Europe.
+        difficult to maintain — drops in form and defensive lapses have made some results less convincing.
+      </p>
+      <a href="https://business.globbalnews.com">Join our business group chanels for business informations</a>
+      <h2>
+        How Alvaro Arbeloa is making improvement after xavi Alonso exit
+      </h2>
+      <p>
+        Álvaro Arbeloa's current performance as manager of Real Madrid (as of mid-February 2026),
+        Recent Results & Form - After replacing Xabi Alonso in January 2026,
+        Arbeloa has overseen a notable upturn in results — Real Madrid recently went on a winning run in La Liga and Europe,
+        including a 1–0 away win over Benfica in the Champions League first-leg playoff.  - Under his leadership,
+        Real have scored in every match across all competitions, a streak not seen since 2009–10 under Manuel
+        Pellegrini : The team is also enjoying momentum domestically, with strong performances like a big victory over Real Sociedad. 📊
+        Tactical & Team Notes - Arbeloa emphasizes solid, disciplined play, especially in defense and organization, something he highlighted after the Benfica win.
+        He's been maneuvering his squad through injuries and big personalities, and has given more first-team opportunities to academy players than his predecessor.
+        While his teams have improved offensively and in results, consistency and tactical identity are still developing, with some critics questioning balance and long-term plans,
+        📉 Challenges & Criticism - His tenure started with a shock Copa del Rey exit and an early European setback before the resurgence.
+        Some pundits and fans express internal dissatisfaction or doubt about his decisions or style, though this remains more opinion-based than reflected in match outcomes.
+        🧠 Overall Take Arbeloa's performance so far is mixed but trending positive:✔ Strong recent winning run and improved attacking consistency. ✔ Record streak of scoring and notable European result (Benfica win).
+        Tactical cohesion and long-term readiness for big competitions still under scrutiny.
+      </p>
+      <h2>
         Super win for Manchester City against Arsenal
-      </h1>
+      </h2>
       <p>
         Manchester City’s 2–1 win vs Liverpool is very lucky win because of unexpected last minute goals on 8th feb 2026.
         Liverpool took the lead through a stunning free-kick from Dominik Szoboszlai in the 74th minute, catching City off-guard defensively.
         City responded late: Bernardo Silva drew them level with a well-timed finish late in the second half, showing City’s resilience.
         Erling Haaland won it with a stoppage-time penalty after Matheus Nunes was fouled — Haaland calmly converted to complete the comeback.
         City’s refusal to sit back — Even after conceding, Pep Guardiola’s side kept pressing and created good chances.
-         Their persistence paid off with the late equaliser and penalty.
-         Liverpool’s set-piece threat — Szoboszlai’s free kick was a reminder that dead balls remain a vulnerability for City.
-         Defensive frailties late on — Giving up the late goal highlights why City still have work to do if they want to sustain a title challenge.
-         This match was defined by late drama and dramatic swings — a tale of a stunning free-kick, a resilient comeback, controversial VAR moments, and a title-race pulse-raiser. 
-         Manchester City’s stoppage-time victory not only gave them three vital points but also highlighted their resilience in key moments, while Liverpool’s loss marked another late stumble in a season of mixed form.
+        Their persistence paid off with the late equaliser and penalty.
+        Liverpool’s set-piece threat — Szoboszlai’s free kick was a reminder that dead balls remain a vulnerability for City.
+        Defensive frailties late on — Giving up the late goal highlights why City still have work to do if they want to sustain a title challenge.
+        This match was defined by late drama and dramatic swings — a tale of a stunning free-kick, a resilient comeback, controversial VAR moments, and a title-race pulse-raiser.
+        Manchester City’s stoppage-time victory not only gave them three vital points but also highlighted their resilience in key moments, while Liverpool’s loss marked another late stumble in a season of mixed form.
       </p>
-      <h1>
-      The most difficult season for Manchester City
-    </h1>
-    <p>
-      2025/26 premier league season has become a though season for Manchester City 
-      On 17th january 2026 they got decisive defeat against Manchester United 2-0,
-      that has given Manchester United more hope and advantage getting closer to the title 
-      because they have already defeated leading champions Arsenal 3-2 ,and at the same time 
-      getting another victory 3-2 against Fulham, which has put them on the 4th position of premier league table.
-      Manchester City is stil maintaining the 2nd position after having 2-2 draw against Tottenham Hotspur.
-      Arsenal is stil leading with 6 points ahead of Manchester City.
-      All eye's on them if they can make wonders to lift the cup this season.
-    </p>
-      <h1 className="text-4xl font-bold mb-4">Breaking News ���
+      <h2>
+        The most difficult season for Manchester City
+      </h2>
+      <p>
+        2025/26 premier league season has become a though season for Manchester City
+        On 17th january 2026 they got decisive defeat against Manchester United 2-0,
+        that has given Manchester United more hope and advantage getting closer to the title
+        because they have already defeated leading champions Arsenal 3-2 ,and at the same time
+        getting another victory 3-2 against Fulham, which has put them on the 4th position of premier league table.
+        Manchester City is stil maintaining the 2nd position after having 2-2 draw against Tottenham Hotspur.
+        Arsenal is stil leading with 6 points ahead of Manchester City.
+        All eye's on them if they can make wonders to lift the cup this season.
+      </p>
+      <h2 className="text-4xl font-bold mb-4">Breaking News ���
 
         <a href="https://sports.globbalnews.com">
           <img src="semenyo3.jpg" alt="image" width="600" /><br></br>
           Antoine Semenyo score his firt goal and Assist for Man City
           10-1 against Exeter City.
         </a>
-      </h1>
+      </h2>
       <p className="text-gray-600 dark:text-gray-300 max-w-xl mx-auto">
         Globbalnews.com is one of the most trending website currently,
         we provide both foreign and local news.
@@ -77,9 +90,9 @@ export function Home() {
         Our team have well train experience business guy's who can assist you for your business to grow, and if you are now willing to start something new
         they are ready to start with you.
       </p>
-      <h1>
+      <h2>
         Can Antoine Semenyo make history at man city?.
-      </h1>
+      </h2>
       <p>
         Antoine Semenyo is making progress after moving to Man City
         as he score 2 goals in 2 matches with 1 assist.
@@ -104,9 +117,9 @@ export function Home() {
       <h2>
         <a href="https://blog.globbalnews.com">Top UI trends that can change the world</a>
       </h2>
-      <h1>
+      <h2>
         Hot january transfer for 2026
-      </h1>
+      </h2>
       <p>
         Ghana winger Antoine Serlom Semenyo is one of the greatest prayer who has better performance this season.
         Bournemouth winger Antoine Semenyo has chosen Manchester City as his preferred January destination, according to David Ornstein.
@@ -143,10 +156,10 @@ export function Home() {
       <div>
         <img src="semenyo2.jpg" alt="image" />
       </div>
-      <h1>
+      <h2>
         <a href="https://sports.globbalnews.com">2026 most valuable players</a>
-      </h1>
-      <h1>Why Christiano Ronaldo is not happy after Real Madrid sacked Xavi Alonso.</h1>
+      </h2>
+      <h2>Why Christiano Ronaldo is not happy after Real Madrid sacked Xavi Alonso.</h2>
       <p>
         Xabi Alonso was dismissed as Real Madrid head coach shortly after a Spanish Super Cup final loss to Barcelona and internal tensions within the squad.
         Coverage and reactions have largely focused on Alonso’s own comments, media analysis, and reactions from some players.
@@ -205,9 +218,9 @@ export function Home() {
       <h2>
         <a href="https://shop.globbalnews.com">Best entertainment events in 2026/27</a>
       </h2>
-      <h1>
+      <h2>
         Why is Lionel Messi still dreaming for 2nd World cup!
-      </h1>
+      </h2>
       <div>
         <img src="mesi1.jpg" alt="image" />
       </div>
@@ -237,9 +250,9 @@ export function Home() {
       <div>
         <img src="mesi2.jpg" alt="image" />
       </div>
-      <h1>
+      <h2>
         How Lionel Messi's performance in inter miami will contribute records in his career.
-      </h1>
+      </h2>
       <p>
         Copa América 2024
 
@@ -258,9 +271,9 @@ export function Home() {
         <a href="https://news.globbalnews.com">Trending of global economic and climate changes for 2026/27  </a>
       </h2>
 
-      <h1>
+      <h2>
         How Erling Haaland Braut performance increase season by season.
-      </h1>
+      </h2>
 
       <p>
         Since 2022-23 season he joined Manchester City, his contribution to the team is extraordinary.
@@ -274,9 +287,9 @@ export function Home() {
         which kept him away from the field of play for two months, precluding him from participating in the Club World Cup, which Manchester City still won.
       </p>
       <div>
-        <h1>
+        <h2>
           <a href="https://sports.globbalnews.com">Bad day for Manchester City</a>
-        </h1>
+        </h2>
         <p>
           Manchester City is having low performance in the 2025/26 season , they have
           make many new signing to improve the teams performance but it looks like
@@ -334,9 +347,9 @@ export function Home() {
 
       </a>
 
-      <h1>
+      <h2>
         <a href="https://globbalnews.com">How conflict's are disturbing the Global peace,Is there solution for that?.</a>
-      </h1>
+      </h2>
 
       <h2>
         Can Mbape's current performance help him lift next Ballon d'or ?
@@ -433,9 +446,9 @@ export function Home() {
         On February 9, 2022, Entertainment Weekly ceased print publication and moved to digital-only.[12] The final print issue was that of April 2022.[13] In May 2022, executive editor Patrick Gomez stepped into the editor-in-chief/general manager role.
       </p>
 
-      <h1>
-        <a href="https://shop.globbalnews.come"> Follow For more informations </a>
-      </h1>
+      <h2>
+        <a href="https://shop.globbalnews.com"> Follow For more informations </a>
+      </h2>
 
     </motion.div>
   );

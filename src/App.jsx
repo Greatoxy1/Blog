@@ -4,13 +4,16 @@ import { Home } from "./pages/Home";
 import { News } from "./pages/News";
 import { Blog } from "./pages/Blog";
 import { Sports } from "./pages/Sports";
-import { Shop } from "./pages/Shop";
-import { Entertainment } from "./pages/Entertainment";
-
+import {Shop} from "./pages/Shop";
+import {Entertainment} from "./pages/Entertainment";
+import ProductLink from "./components/ProductLink";
+import Footer from "./pages/Footer";
 export default function App() {
   return (
     <Router>
       <Navbar />
+      <ProductLink/>
+      <Footer/>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/news" element={<News />} />

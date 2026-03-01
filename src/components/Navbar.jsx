@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 export default function Navbar() {
   return (
    <nav style ={{display : "flex", gap : "400px"}}>
-   <Link to ="/"></Link>
-   <Link to ="sports"></Link>
+   <Link to ="/">Sports highlights</Link>
+   <Link to ="sports">Current sports update </Link>
    
    </nav>
   );

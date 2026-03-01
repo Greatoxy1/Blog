@@ -3,6 +3,23 @@
 export function Home() {
   return (
     <div>
+      <h2>🏆 Premier League title race (as of March 1, 2026)</h2>
+      <p>
+        Arsenal are currently top of the Premier League table, leading the standings with around 61 points from about 28 matches played.
+
+        Manchester City are in second place,
+        trailing by just 2 points after their recent 1-0 win over Leeds United — closing the gap significantly in the title race.
+        Manchester City have been in strong form, extending their unbeaten run and keeping up pressure on Arsenal even without top scorer Erling Haaland.
+        Arsenal have had impressive results too, including a big North London derby win and strong consistency at the top.
+        Aside from the league, the two clubs are also set to meet in cup competitions:
+
+        They are scheduled to play in the 2026 EFL Cup final on 22 March 2026 at Wembley Stadium — a direct title showdown in a major domestic cup.
+        Both sides have key league fixtures left and will look to maintain momentum.
+
+        The race could go down to the final weeks of the season given the small gap.
+
+        Head-to-head matches — especially the league game on 18 April 2026 and the EFL Cup final — will be pivotal in deciding silverware.
+      </p>
       <h2>
         ⚽2025/26 Premier League performance
       </h2>
@@ -36,7 +53,7 @@ export function Home() {
         At the other end, the relegation battle is also fiercely contested.
       </p>
       <h2>
-        <a href ="https://business.globbalnews.com">Join our business pages for online sections</a>
+        <a href="https://business.globbalnews.com">Join our business pages for online sections</a>
       </h2>
       <h2>
         2025/26 🏆 UEFA Champions League
@@ -59,7 +76,10 @@ export function Home() {
         Real Madrid did progress to the Round of 16, but they finished 9th in the league phase under the new UCL format and had to go through a play-off versus SL Benfica rather than qualifying directly like champions usually do — a sign they weren’t as strong early on.
       </p>
       <h2>
-        <a href="https://Sports.globbalnews.com">Current Sports highlights</a>
+        <a href="https://globbalnews.com">Breaking News</a>
+      </h2>
+      <h2>
+        <a href="https://shop.globbalnews.com">Contact us for business informations</a>
       </h2>
     </div>
   );

@@ -5,6 +5,15 @@ export function Sports() {
       <h2>
         Sports apdate
       </h2>
+      <h2>How Real Madrid is strugglig in 2025/26 season </h2>
+      <p>
+        Real Madrid currently sit very close behind the league leaders (e.g., FC Barcelona),
+        meaning every dropped point matters — a loss like the one at Osasuna opened the door for rivals to edge ahead in the table.
+        On 2nd march 2026 Real Madrid loose 1-0 against Getefe that gives Barcelona 4 good points to lead in the laliga,
+        Despite periods of strong form, Madrid have struggled to maintain long winning streaks and have dropped points in matches they would normally be expected to win.
+        This makes staying ahead in the title fight harder.
+        Real Madrid are competing on multiple fronts (LaLiga, UEFA Champions League), balancing player rest and performance in the league requires careful planning — especially given the congested schedule.
+      </p>
       <h2>⚽ UEFA Champions League</h2>
       <p>
         Real Madrid qualified for the Champions League round of 16, advancing past Benfica with a 3–1 aggregate score.

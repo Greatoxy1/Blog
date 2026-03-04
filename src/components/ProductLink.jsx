@@ -3,11 +3,11 @@ function ProductLink() {
         <>
             <a
 
-                href="https://www.amazon.it/dp/B07D1XCKWW?tag=6543210ff-21"
+                href="https://amzn.to/4l6Ce3H"
                 target="blank"
                 rel="nofollow sponsored noopener"
             >
-                <h3>Corsair Vengeance RGB PRO 16 GB (2 x 8 GB) DDR4 3200MHz C16 RGB LED</h3>
+                <h3>Men's Shoes</h3>
 
                 <h2>
                     Buy on Amazon

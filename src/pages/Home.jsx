@@ -3,6 +3,25 @@
 export function Home() {
   return (
     <div>
+      <h2>
+       🏆 Atletico Madrid has reach Copa del Rey final after beaten FC Barcelona🏆
+      </h2>
+      <p>
+        Atlético Madrid has qualified for the Copa del Rey final after beating FC Barcelona 4–3 on aggregate in the semifinals.
+
+        The final is scheduled to be played on 18 April 2026 at Estadio de La Cartuja in Sevilla.
+
+        Atlético’s opponent is not yet decided — they will face the winner of the other semifinal between Real Sociedad and Athletic Bilbao.
+        Real Sociedad holds a 1–0 lead going into that second leg.
+        Real Sociedad is a strong team with good cup history and often tough at home, so the match would likely be close.
+        and Athletic Bilbao have one of the best records in Copa del Rey history and are traditionally strong in finals,
+        which could make Atlético the underdog or at least make the game very competitive.
+        Atlético Madrid will play in the Copa del Rey final on 18 April 2026.
+
+        Their opponent (Real Sociedad or Athletic Bilbao) will be known after the other semifinal is decided.
+
+        Their chances depend a lot on which team they meet — both possible opponents are tough in cup finals.
+      </p>
       <h2>🏆 Premier League title race (as of March 1, 2026)</h2>
       <p>
         Arsenal are currently top of the Premier League table, leading the standings with around 61 points from about 28 matches played.
